@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: cad70d3cc757540d492880f33eea2f4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4949186736601948234
+    second: CHECKINT_LOGO_0
+  - first:
+      213: 8193111744514783049
+    second: CHECKINT_LOGO_1
+  - first:
+      213: -1077715358625984650
+    second: CHECKINT_LOGO_2
+  - first:
+      213: -6709101671473679338
+    second: CHECKINT_LOGO_3
+  - first:
+      213: 4181318252408772731
+    second: CHECKINT_LOGO_4
+  - first:
+      213: -4853055143336273847
+    second: CHECKINT_LOGO_5
+  - first:
+      213: 5259682937422077366
+    second: CHECKINT_LOGO_6
+  - first:
+      213: 553045207900377207
+    second: CHECKINT_LOGO_7
+  - first:
+      213: -4139219421938777906
+    second: CHECKINT_LOGO_8
+  - first:
+      213: 4657903881684215365
+    second: CHECKINT_LOGO_9
+  - first:
+      213: 5011422068207558575
+    second: CHECKINT_LOGO_10
+  - first:
+      213: -5777615686345963305
+    second: CHECKINT_LOGO_11
+  - first:
+      213: 3956065165756084726
+    second: CHECKINT_LOGO_12
+  - first:
+      213: 1207281792305938522
+    second: CHECKINT_LOGO_13
+  - first:
+      213: 8840494802475773745
+    second: CHECKINT_LOGO_14
+  - first:
+      213: -2909507155939277110
+    second: CHECKINT_LOGO_15
+  - first:
+      213: -9075198309739524885
+    second: CHECKINT_LOGO_16
+  - first:
+      213: 8003450055595660122
+    second: CHECKINT_LOGO_17
+  - first:
+      213: 733196594681125454
+    second: CHECKINT_LOGO_18
+  - first:
+      213: -5896961206152700825
+    second: CHECKINT_LOGO_19
+  - first:
+      213: 2453007017488958706
+    second: CHECKINT_LOGO_20
+  - first:
+      213: -4686183550372114382
+    second: CHECKINT_LOGO_21
+  - first:
+      213: 6696981023531638216
+    second: CHECKINT_LOGO_22
+  - first:
+      213: 3955350533926363378
+    second: CHECKINT_LOGO_23
+  - first:
+      213: -1705450865481233894
+    second: CHECKINT_LOGO_24
+  - first:
+      213: 376409466585732170
+    second: CHECKINT_LOGO_25
+  - first:
+      213: 376971313118860252
+    second: CHECKINT_LOGO_26
+  - first:
+      213: -817924579464308057
+    second: CHECKINT_LOGO_27
+  - first:
+      213: -512667989836018482
+    second: CHECKINT_LOGO_28
+  - first:
+      213: 7341366156756009255
+    second: CHECKINT_LOGO_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_0
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 842
+        width: 481
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf14cd82e4f05bb0800000000000000
+      internalID: -4949186736601948234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 948
+        width: 1404
+        height: 1670
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94772e009b7c3b170800000000000000
+      internalID: 8193111744514783049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_2
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 948
+        width: 1513
+        height: 1678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f8d10679f2b01f0800000000000000
+      internalID: -1077715358625984650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_3
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 948
+        width: 1018
+        height: 1678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614f4dd739b74e2a0800000000000000
+      internalID: -6709101671473679338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_4
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 842
+        width: 564
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b789ea70cc6070a30800000000000000
+      internalID: 4181318252408772731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_5
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 948
+        width: 663
+        height: 1678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9481f0a4f0c76acb0800000000000000
+      internalID: -4853055143336273847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_6
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 948
+        width: 781
+        height: 1678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdd93cb3c52ef840800000000000000
+      internalID: 5259682937422077366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_7
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 948
+        width: 534
+        height: 1678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77052a9bfafcca700800000000000000
+      internalID: 553045207900377207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_8
+      rect:
+        serializedVersion: 2
+        x: 4374
+        y: 948
+        width: 1172
+        height: 1678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec001f3cdd98e86c0800000000000000
+      internalID: -4139219421938777906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_9
+      rect:
+        serializedVersion: 2
+        x: 4956
+        y: 948
+        width: 1221
+        height: 1678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54663b9d6e234a040800000000000000
+      internalID: 4657903881684215365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_10
+      rect:
+        serializedVersion: 2
+        x: 5164
+        y: 842
+        width: 426
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf9013c1d52c8540800000000000000
+      internalID: 5011422068207558575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_11
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 842
+        width: 343
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8cf96f429c1dfa0800000000000000
+      internalID: -5777615686345963305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_12
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 842
+        width: 332
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f13031ee44c6e630800000000000000
+      internalID: 3956065165756084726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_13
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 842
+        width: 644
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a504136c46021c010800000000000000
+      internalID: 1207281792305938522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_14
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 842
+        width: 313
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f61441f2fbfaa70800000000000000
+      internalID: 8840494802475773745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_15
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 842
+        width: 347
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac648ca28aa5f97d0800000000000000
+      internalID: -2909507155939277110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_16
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 842
+        width: 318
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec00c1483b6e0280800000000000000
+      internalID: -9075198309739524885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_17
+      rect:
+        serializedVersion: 2
+        x: 4779
+        y: 842
+        width: 317
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a531c55eb67f11f60800000000000000
+      internalID: 8003450055595660122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_18
+      rect:
+        serializedVersion: 2
+        x: 5909
+        y: 842
+        width: 328
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a9e701b66dc2a00800000000000000
+      internalID: 733196594681125454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 89
+        width: 143
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c5205c609c92ea0800000000000000
+      internalID: -5896961206152700825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 89
+        width: 530
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f448f4c2e4da0220800000000000000
+      internalID: 2453007017488958706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_21
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 89
+        width: 488
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2309acfa3e457feb0800000000000000
+      internalID: -4686183550372114382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_22
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 89
+        width: 468
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd922f32c470fc50800000000000000
+      internalID: 6696981023531638216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_23
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 89
+        width: 530
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f025d0ba5a34e630800000000000000
+      internalID: 3955350533926363378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_24
+      rect:
+        serializedVersion: 2
+        x: 2965
+        y: 89
+        width: 611
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1acb1549750558e0800000000000000
+      internalID: -1705450865481233894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_25
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 84
+        width: 539
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44dfe16a66493500800000000000000
+      internalID: 376409466585732170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_26
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 89
+        width: 482
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd356f879654b3500800000000000000
+      internalID: 376971313118860252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_27
+      rect:
+        serializedVersion: 2
+        x: 4832
+        y: 89
+        width: 144
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa18f3bde526a4f0800000000000000
+      internalID: -817924579464308057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_28
+      rect:
+        serializedVersion: 2
+        x: 5084
+        y: 94
+        width: 592
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc4c12fd23a2e8f0800000000000000
+      internalID: -512667989836018482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHECKINT_LOGO_29
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 89
+        width: 462
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72144839f95c1e560800000000000000
+      internalID: 7341366156756009255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CHECKINT_LOGO_0: -4949186736601948234
+      CHECKINT_LOGO_1: 8193111744514783049
+      CHECKINT_LOGO_10: 5011422068207558575
+      CHECKINT_LOGO_11: -5777615686345963305
+      CHECKINT_LOGO_12: 3956065165756084726
+      CHECKINT_LOGO_13: 1207281792305938522
+      CHECKINT_LOGO_14: 8840494802475773745
+      CHECKINT_LOGO_15: -2909507155939277110
+      CHECKINT_LOGO_16: -9075198309739524885
+      CHECKINT_LOGO_17: 8003450055595660122
+      CHECKINT_LOGO_18: 733196594681125454
+      CHECKINT_LOGO_19: -5896961206152700825
+      CHECKINT_LOGO_2: -1077715358625984650
+      CHECKINT_LOGO_20: 2453007017488958706
+      CHECKINT_LOGO_21: -4686183550372114382
+      CHECKINT_LOGO_22: 6696981023531638216
+      CHECKINT_LOGO_23: 3955350533926363378
+      CHECKINT_LOGO_24: -1705450865481233894
+      CHECKINT_LOGO_25: 376409466585732170
+      CHECKINT_LOGO_26: 376971313118860252
+      CHECKINT_LOGO_27: -817924579464308057
+      CHECKINT_LOGO_28: -512667989836018482
+      CHECKINT_LOGO_29: 7341366156756009255
+      CHECKINT_LOGO_3: -6709101671473679338
+      CHECKINT_LOGO_4: 4181318252408772731
+      CHECKINT_LOGO_5: -4853055143336273847
+      CHECKINT_LOGO_6: 5259682937422077366
+      CHECKINT_LOGO_7: 553045207900377207
+      CHECKINT_LOGO_8: -4139219421938777906
+      CHECKINT_LOGO_9: 4657903881684215365
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
