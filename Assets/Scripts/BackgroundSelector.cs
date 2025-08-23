@@ -6,14 +6,21 @@ using UnityEngine.UI;
 
 public class BackgroundSelector : MonoBehaviour
 {
+    public static BackgroundSelector instance;
     public Button[] backgroundButton;
     public Button nextButton;
     public static string backgroundPath;
     private string[] backgroundName = { "uni_label.png", "palace.png", "road.png", "bridge.png" };
-    private string filePath = Path.Combine(Application.dataPath, "BackgroundImage", "Sanamchandra");
+    private string filePath;
+
+    void Awake()
+    {
+        filePath = Path.Combine(Application.streamingAssetsPath, "BackgroundImage", "Sanamchandra");
+    }
 
     void Start()
     {
+        instance = this;
         nextButton.interactable = false;
         for (int i = 0; i < backgroundButton.Length; i++)
         {
@@ -25,7 +32,7 @@ public class BackgroundSelector : MonoBehaviour
 
     public void OnBackgroundSelected(int index)
     {
-        BackgroundSelector.backgroundPath = Path.Combine(filePath, backgroundName[index]);
+        backgroundPath = Path.Combine(filePath, backgroundName[index]);
         Debug.Log("Button " + backgroundButton[index].name + " clicked. \n Path: " + backgroundPath);
         nextButton.interactable = true;
     }

@@ -5,7 +5,6 @@ using UnityEngine.UI;
 public class CaptureController : MonoBehaviour
 {
     [Header("Component References")]
-    public WebCamController webCamController;
     public Button captureButton;
     public Button saveButton;
     public Button retakeButton;
@@ -17,9 +16,9 @@ public class CaptureController : MonoBehaviour
 
     void Start()
     {
-        if (webCamController == null)
+        if (WebCamController.instance == null)
         {
-            Debug.LogError("WebCamController Is Not Assigned");
+            Debug.LogError("WebCamContollerIs Not Assigned");
             return;
         }
 
@@ -30,7 +29,7 @@ public class CaptureController : MonoBehaviour
 
         captureButton.onClick.AddListener(StartCaptureProcess);
         retakeButton.onClick.AddListener(RetakeSnapShot);
-
+        WebCamController.instance.PlayWebCam();
         SetInitialState();
     }
 
@@ -44,7 +43,6 @@ public class CaptureController : MonoBehaviour
     }
     private void SetPostCaptureState()
     {
-        captureButton.gameObject.SetActive(false);
         saveButton.gameObject.SetActive(true);
         retakeButton.gameObject.SetActive(true);
         frame.SetActive(false);
@@ -57,12 +55,13 @@ public class CaptureController : MonoBehaviour
         {
             timerText.gameObject.SetActive(true);
         }
+        captureButton.gameObject.SetActive(false);
         StartCoroutine(CountdownCoroutine());
     }
 
     public void RetakeSnapShot()
     {
-        webCamController.PlayWebCam();
+        WebCamController.instance.PlayWebCam();
         SetInitialState();
     }
 
@@ -84,8 +83,8 @@ public class CaptureController : MonoBehaviour
             timerText.gameObject.SetActive(false);
         }
 
-        webCamController.TakeSnapShot();
-        webCamController.StopWebCam();
+        WebCamController.instance.TakeSnapShot();
+        WebCamController.instance.StopWebCam();
         SetPostCaptureState();
     }
 }

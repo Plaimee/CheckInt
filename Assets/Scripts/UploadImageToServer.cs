@@ -2,7 +2,6 @@ using System.Collections;
 using System.IO;
 using System.Text;
 using System.Xml.Serialization;
-using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
@@ -19,7 +18,7 @@ public class ServerResponse
 public class UploadImageToServer : MonoBehaviour
 {
     [Header("Server Configuration")]
-    [SerializeField] private string flaskURL = "http://127.0.0.1:5000";
+    [SerializeField] private string flaskURL = "https://qylt8b1zvfydmk-5000.proxy.runpod.net";
     [SerializeField] private string mergeAPIEndpoint = "merge_images";
     [SerializeField] private string resultSceneName = "ResultScene";
     [SerializeField] private string saveUrlEndpoint = "https://funcslash.com/projects/2025/argus/db_api.php";
@@ -28,6 +27,11 @@ public class UploadImageToServer : MonoBehaviour
     public static Texture2D finalResultTexture { get; private set; }
     public static Texture2D qrCodeTexture { get; private set; }
     private bool uploadTriggered = false;
+
+    void Start()
+    {
+        DontDestroyOnLoad(this.gameObject);
+    }
 
     void Update()
     {

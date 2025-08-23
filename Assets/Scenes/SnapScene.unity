@@ -2111,7 +2111,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80ef872a6efa440e7b56006937263fcb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  webCamController: {fileID: 2111986729}
   captureController: {fileID: 1727924178}
   saveButton: {fileID: 442067908}
 --- !u!114 &1727924178
@@ -2126,7 +2125,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7f485d1464ee14956a11761afa8b3f45, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  webCamController: {fileID: 2111986729}
   captureButton: {fileID: 1299220761}
   saveButton: {fileID: 442067908}
   retakeButton: {fileID: 725136193}
@@ -2376,7 +2374,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1
+    width: -1
     height: 1
 --- !u!222 &2111986728
 CanvasRenderer:
@@ -2395,7 +2393,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2111986725}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d41ceffade890455581ee9f65f2d3c1c, type: 3}
+  m_Script: {fileID: 11500000, guid: 789b140c729384a0a8c14163babccb7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
